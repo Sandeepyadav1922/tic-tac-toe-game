@@ -1,1 +1,1 @@
-# tic-tac-toe-game
+This is a pencil-paper-game
